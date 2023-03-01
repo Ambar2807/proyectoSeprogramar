@@ -1,0 +1,86 @@
+.container { 
+    background-color:black;
+     
+}
+
+.col-4 {
+    background-color: #6eb6cb;
+}
+
+.col-8 {
+    background-color: white;
+}
+
+
+.fotoCv{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 50%;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 5px;
+    width: 150px;
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+h1 {
+    font-family: 'Righteous', cursive;
+    text-align: center;
+    padding-top: 30px;
+    
+}
+
+h2 {
+    font-family: 'Righteous', cursive;
+    text-align: center;
+    
+}
+
+p {
+    font-family: 'Gloock', serifzzzz;
+    text-align: center;
+}
+
+.sobremi {
+    padding-top: 30px;
+}
+
+.redesSociales {
+    margin-left: auto;
+    margin-right: auto;
+}
+.insta {
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40px;
+}
+
+.github {
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40px;
+}
+
+.contacto {
+    padding-top: 30px;
+}
+
+.icono {
+    border: 3px solid #6eb6cb;
+    border-radius: 50%;
+    width: 40px;
+    float: left;
+}
+
+button {
+    background-color: white;
+    border: white;
+    
+}
